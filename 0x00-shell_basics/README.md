@@ -13,7 +13,7 @@
 2. [There is no place like home](./2-bring_me_home) : A script that changes the working directory to the user's home directory.
 3. [The long format](./3-listfiles) : A script that displays the current directory contents in a long format.
 4. [Hidden files](./4-listmorefiles) : A script that displays the current directory contents including hidden files.
-5. [I loce numbers](./5-listfilesdigitonly) : A script that displays the current directory contents, using long format, while displaying group IDs in numeral and show hidden files.
+5. [I love numbers](./5-listfilesdigitonly) : A script that displays the current directory contents, using long format, while displaying group IDs in numeral and show hidden files.
 6. [Welcome](./6-firstdirectory) : A script that will create a directory named `my_first_directory` in the `/tmp/` directory.
 7. [Betty in my first directory](./7-movethatfile) : A scipt that will move a file called `betty` from home to the new directory created above.
 8. [Bye bye Betty](./8-firstdelete) : A script that will delete file `betty` from the new location.
