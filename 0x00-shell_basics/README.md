@@ -14,10 +14,10 @@
 3. [The long format](./3-listfiles) : A script that displays the current directory contents in a long format.
 4. [Hidden files](./4-listmorefiles) : A script that displays the current directory contents including hidden files.
 5. [I loce numbers](./5-listfilesdigitonly) : A script that displays the current directory contents, using long format, while displaying group IDs in numeral and show hidden files.
-6. [Welcome holberton](./6-firstdirectory) : A script that will create a directory named `holberton` in the `/tmp/` directory.
-7. [Betty in Holberton](./7-movethatfile) : A scipt that will move a file called `betty` from home to the new directory created above.
+6. [Welcome](./6-firstdirectory) : A script that will create a directory named `my_first_directory` in the `/tmp/` directory.
+7. [Betty in my first directory](./7-movethatfile) : A scipt that will move a file called `betty` from home to the new directory created above.
 8. [Bye bye Betty](./8-firstdelete) : A script that will delete file `betty` from the new location.
-9. [Bye bye Holberton](./9-firstdirdeletion) : A script that will delete the directory `school` that is in the `/tmp/` directory path.
+9. [Bye bye My first directory](./9-firstdirdeletion) : A script that will delete the directory `my_first_directory` that is in the `/tmp/` directory path.
 10. [Back to the future](./10-back) Change working directory to the previous one.
 11. [Lists](./11-lists) List all files (*even ones with names beginning with a period character, which are normally hidden*) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 12. [File type](./12-file_type) A script that prints the type of the named file `iamafile`. The `iamafile` will be in the `/tmp/` directory when we will run your script.
@@ -27,4 +27,4 @@
 16. [Clean Emacs](./101-clean_emacs) A script that deletes all files in the current directory that end with the character `~`.
 17. [Tree](./102-tree) A script that creates the directory `welcome/`, `welcome/to/` and `welcome/to/school`.
 18. [Life is a series of commas, not periods](./103-commas) A script that lists all the files and directories of the current directory separated by commas `,`.
-19. [File type: Holberton](./holberton.mgc) Create a magic file `holberton.mgc` that can be used with the command `file` to detect `School` data files always contain the string `SCHOOL` at offset 0.
+19. [File type: School](./school.mgc) Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
