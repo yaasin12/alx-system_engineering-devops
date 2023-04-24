@@ -13,8 +13,8 @@ This question is a good test of whether you understand DNS. Many software engine
 
 | Filename |
 | ------ |
-| [0-blog_post](https://github.com/yaasin12/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter/0-blog_post)|
-| [0-blog_post](https://github.com/yaasin12/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_holbertonschool_com_in_your_browser_and_press_enter/1-what_happen_when_diagram)|
+| [0-blog_post](https://github.com/yaasin12/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/0-blog_post)|
+| [1-what_happen_when_diagram](https://github.com/yaasin12/alx-system_engineering-devops/blob/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter/1-what_happen_when_diagram)|
 
 
 ## Additional info :construction:
